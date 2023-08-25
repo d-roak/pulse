@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "kademlia",
+    "plumtree-flood",
+    "pulse",
+    "simulator",
+]
